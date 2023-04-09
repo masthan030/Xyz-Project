@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-09T17:26:44 IST" name="Suite" finished-at="2023-04-09T17:26:44 IST" duration-ms="74">
+    <groups>
+    </groups>
+    <test started-at="2023-04-09T17:26:44 IST" name="Test" finished-at="2023-04-09T17:26:44 IST" duration-ms="74">
+      <class name="tests.Test2">
+        <test-method signature="demo()[pri:1, instance:tests.Test2@67c33749]" started-at="2023-04-09T17:26:44 IST" name="demo" finished-at="2023-04-09T17:26:44 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo -->
+        <test-method signature="ser()[pri:2, instance:tests.Test2@67c33749]" started-at="2023-04-09T17:26:44 IST" name="ser" finished-at="2023-04-09T17:26:44 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ser -->
+      </class> <!-- tests.Test2 -->
+      <class name="tests.Test1">
+        <test-method signature="test()[pri:0, instance:tests.Test1@169e6180]" started-at="2023-04-09T17:26:44 IST" name="test" finished-at="2023-04-09T17:26:44 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- tests.Test1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
